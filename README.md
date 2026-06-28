@@ -113,7 +113,7 @@ Sample metrics for **Cyber Security Analyst**:
 ## Dashboard
 
 <!-- Add your Tableau Public link below -->
-> 📊 **Tableau Dashboard:** `https://public.tableau.com/app/profile/navjot.singh.shron/viz/cybersecurity_17405068312400/Dashboard1`
+> 📊 **Tableau Dashboard:** https://public.tableau.com/app/profile/navjot.singh.shron/viz/cybersecurity_17405068312400/Dashboard1
 
 The dashboard covers:
 - Job count trends and 3-year forecasts per role
